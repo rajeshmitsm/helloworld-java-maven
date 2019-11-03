@@ -42,19 +42,12 @@
     <repository>
         <id>deployment</id>
         <name>release softx</name>
-        <url>http://18.234.26.96:8081/nexus/content/repositories/Nexus-1/</url>
+        <url>http://18.209.161.130:8081/nexus/content/repositories/Nexus-1/</url>
     </repository>
     <snapshotRepository>
         <id>deployment</id>
         <name>snapshot softx</name>
-        <url>http://18.234.26.96:8081/nexus/content/repositories/Nexus-Snap/</url>
+        <url>http://18.209.161.130:8081/nexus/content/repositories/Nexus-Snap/</url>
     </snapshotRepository>
 </distributionManagement>
-
-
-
-
-
-
-
 </project>
